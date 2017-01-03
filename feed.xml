@@ -31,7 +31,7 @@
         <enclosure url="{{ site.url }}{{ post.audio_file_path }}" type="audio/mp3"/>
         <itunes:author>{{ site.author }}</itunes:author>
         <itunes:subtitle>{{ post.description }}</itunes:subtitle>
-        <itunes:summary>{{ post.content | xml_escape }}</itunes:subtitle>
+        <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
         <itunes:explicit>no</itunes:explicit>
         <media:thumbnail url="{{ site.url }}/images/artwork.jpg"/>
       </item>
