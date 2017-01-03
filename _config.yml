@@ -1,10 +1,10 @@
 actors:
   ykmc09_dev:
-    image_url: /images/actors/ykmc09_dev.png
+    image_url: /images/actors/ykmc09_dev.jpg
     name: ykmc09_dev
     url: https://twitter.com/ykmc09_dev
   miuranobuak:
-    image_url: /images/actors/miuranobuak.png
+    image_url: /images/actors/miuranobuak.jpg
     name: miuranobuak
     url: https://twitter.com/miuranobuak
 author: ykmc09_dev, miuranobuak
