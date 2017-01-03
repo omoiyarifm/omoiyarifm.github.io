@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/miuranobuak.jpg
     name: miuranobuak
     url: https://twitter.com/miuranobuak
+  konifar:
+    image_url: https://pbs.twimg.com/profile_images/619379391588511744/V4RrXbvM.jpg
+    name: konifar
+    url: https://twitter.com/konifar
 author: ykmc09_dev, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
