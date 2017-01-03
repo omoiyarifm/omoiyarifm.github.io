@@ -1,30 +1,30 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  ykmc09_dev:
+    image_url: /images/actors/ykmc09_dev.png
+    name: ykmc09_dev
+    url: https://twitter.com/ykmc09_dev
+  miuranobuak:
+    image_url: /images/actors/miuranobuak.png
+    name: miuranobuak
+    url: https://twitter.com/miuranobuak
+author: ykmc09_dev, miuranobuak
+description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。
+description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
+email: omoiyari-lean-agile@gmail.com
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE.txt
   - README.md
   - vendor
-hashtag: examplehashtag
-itunes_podcast_url:
-keywords: comma,separated,keywords
+hashtag: omoiyarifm
+itunes_podcast_url: https://itunes.apple.com/jp/podcast/omoiyari-lean-agile-podcast/id1086384602?mt=2
+keywords: lean,agile
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: omoiyari.fm (lean-agile podcast)
+url: http://lean-agile.fm
