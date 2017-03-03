@@ -15,6 +15,10 @@ actors:
     image_url: /images/actors/sezutsu.jpg
     name: Takahito Sezutsu
     url: https://www.facebook.com/sezutsu
+  kakakakakku:
+    image_url: /images/actors/kakakakakku.jpg
+    name: Kakakakakku
+    url: https://twitter.com/kakakakakku
 author: ykmc09_dev, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
