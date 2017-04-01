@@ -19,6 +19,10 @@ actors:
     image_url: /images/actors/kakakakakku.png
     name: kakakakakku
     url: https://twitter.com/kakakakakku
+  waysaku:
+    image_url: /images/actors/waysaku.jpg
+    name: waysaku
+    url: https://twitter.com/waysaku
 author: ykmc09_dev, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
