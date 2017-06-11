@@ -43,5 +43,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: omoiyari.fm (lean-agile podcast)
+title: omoiyari.fm (lean-agile podcast) &#35;omoiyarifm
 url: http://lean-agile.fm
