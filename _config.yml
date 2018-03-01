@@ -31,6 +31,10 @@ actors:
     image_url: /images/actors/tomox1001.jpg
     name: tomox1011
     url: https://twitter.com/tomox1001
+  hotchemi:
+    image_url: /images/actors/hotchemi.png
+    name: hotchemi
+    url: https://twitter.com/hotchemi
 author: ykmc09_dev, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
