@@ -8,7 +8,7 @@ actors:
     name: miuranobuak
     url: https://twitter.com/miuranobuak
   konifar:
-    image_url: https://pbs.twimg.com/profile_images/619379391588511744/V4RrXbvM.jpg
+    image_url: /images/actors/konifar.jpg
     name: konifar
     url: https://twitter.com/konifar
   sezutsu:
