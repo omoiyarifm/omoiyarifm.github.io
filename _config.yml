@@ -39,6 +39,10 @@ actors:
     image_url: /images/actors/TAKAKING22.jpg
     name: TAKAKING22
     url: https://twitter.com/TAKAKING22
+  TAKAKING22:
+    image_url: /images/actors/ama_ch.jpg
+    name: ama_ch
+    url: https://twitter.com/ama_ch
 author: ykmc09_dev, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
