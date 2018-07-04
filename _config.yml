@@ -43,8 +43,12 @@ actors:
     image_url: /images/actors/ama_ch.jpg
     name: ama_ch
     url: https://twitter.com/ama_ch
+  satully:
+    image_url: /images/actors/satully.jpg
+    name: satully
+    url: https://twitter.com/satully
 author: ykmc09_dev, miuranobuak
-description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。
+description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
 email: omoiyari.lean.agile@gmail.com
 exclude:
