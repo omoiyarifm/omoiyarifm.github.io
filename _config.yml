@@ -1,8 +1,8 @@
 actors:
-  ykmc09_dev:
-    image_url: /images/actors/ykmc09_dev.jpg
-    name: ykmc09_dev
-    url: https://twitter.com/ykmc09_dev
+  ykmc09:
+    image_url: /images/actors/ykmc09.jpg
+    name: ykmc09
+    url: https://twitter.com/ykmc09
   miuranobuak:
     image_url: /images/actors/miuranobuak.jpg
     name: miuranobuak
@@ -47,9 +47,9 @@ actors:
     image_url: /images/actors/satully.jpg
     name: satully
     url: https://twitter.com/satully
-author: ykmc09_dev, miuranobuak
+author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
-description_long: リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
+description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
 email: omoiyari.lean.agile@gmail.com
 exclude:
   - Gemfile
