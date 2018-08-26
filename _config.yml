@@ -51,6 +51,10 @@ actors:
     image_url: /images/actors/kawaguti.jpg
     name: kawaguti
     url: https://twitter.com/kawaguti
+  poohsunny:
+    image_url: /images/actors/poohsunny.png
+    name: PoohSunny
+    url: https://twitter.com/PoohSunny
 author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
