@@ -59,9 +59,13 @@ actors:
     image_url: /images/actors/kenjiskywalker.jpg
     name: kenjiskywalker
     url: https://twitter.com/kenjiskywalker
+  reyabe:
+    image_url: /images/actors/reyabe.jpg
+    name: reyabe
+    url: https://medium.com/@reyabe
 author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
-description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。
+description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 email: omoiyari.lean.agile@gmail.com
 exclude:
   - Gemfile
