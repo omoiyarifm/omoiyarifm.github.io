@@ -67,6 +67,10 @@ actors:
     image_url: /images/actors/arase.jpg
     name: nakato arase
     url: https://www.facebook.com/nakato.arase
+  takoratta:
+    image_url: /images/actors/takoratta.jpg
+    name: takoratta
+    url: https://twitter.com/takoratta
 author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
