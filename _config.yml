@@ -71,6 +71,14 @@ actors:
     image_url: /images/actors/takoratta.jpg
     name: takoratta
     url: https://twitter.com/takoratta
+  hiroki_daichi:
+    image_url: /images/actors/hiroki_daichi.jpg
+    name: hiroki_daichi
+    url: https://twitter.com/hiroki_daichi
+  yunon_phys:
+    image_url: /images/actors/yunon_phys.jpg
+    name: yunon_phys
+    url: https://twitter.com/yunon_phys
 author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
