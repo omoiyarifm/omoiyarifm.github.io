@@ -83,6 +83,10 @@ actors:
     image_url: /images/actors/iwashi.png
     name: iwashi86
     url: https://twitter.com/iwashi86
+  yattom:
+    image_url: /images/actors/yattom.jpg
+    name: yattom
+    url: https://twitter.com/yattom
 author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
