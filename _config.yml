@@ -87,6 +87,10 @@ actors:
     image_url: /images/actors/yattom.jpg
     name: yattom
     url: https://twitter.com/yattom
+  martin_lover_se:
+    image_url: /images/actors/martin_lover_se.jpg
+    name: martin_lover_se
+    url: https://twitter.com/martin_lover_se
 author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
