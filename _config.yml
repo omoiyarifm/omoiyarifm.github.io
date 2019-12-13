@@ -91,6 +91,10 @@ actors:
     image_url: /images/actors/martin_lover_se.jpg
     name: martin_lover_se
     url: https://twitter.com/martin_lover_se
+  hiranabe:
+    image_url: /images/actors/hiranabe.png
+    name: hiranabe
+    url: https://twitter.com/hiranabe
 author: ykmc09, miuranobuak
 description: リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
 description_long: リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする Podcast です。
@@ -113,3 +117,4 @@ sass:
 timezone: Asia/Tokyo
 title: omoiyari.fm (lean-agile podcast) &#35;omoiyarifm
 url: https://lean-agile.fm
+future: true
