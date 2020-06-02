@@ -107,7 +107,7 @@ exclude:
   - vendor
 hashtag: omoiyarifm
 itunes_podcast_url: https://itunes.apple.com/jp/podcast/omoiyari-lean-agile-podcast/id1086384602?mt=2
-feedburner_feed_url: https://feeds.feedburner.com/omoiyarifm/
+feedburner_feed_url: http://feeds.feedburner.com/omoiyarifm/
 keywords: lean,agile
 language: ja
 markdown: kramdown
