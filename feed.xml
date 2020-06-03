@@ -21,6 +21,7 @@
     <itunes:image href="{{ site.url }}/images/artwork.jpg" />
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:new-feed-url>{{ site.feedburner_feed_url}}</itunes:new-feed-url>
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
