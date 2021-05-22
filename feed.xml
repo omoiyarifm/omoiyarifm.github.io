@@ -18,6 +18,7 @@
       <itunes:name>{{ site.author }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
+    <googleplay:owner>{{ site.email }}</googleplay:owner>
     <itunes:image href="{{ site.url }}/images/artwork.jpg" />
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
