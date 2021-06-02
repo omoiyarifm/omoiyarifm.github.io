@@ -16,7 +16,7 @@
     <itunes:keywords>{{ site.keywords }}</itunes:keywords>
     <itunes:owner>
       <itunes:name>{{ site.author }}</itunes:name>
-      <itunes:email>podcastsmanager@gmail.com</itunes:email>
+      <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.url }}/images/artwork.jpg" />
     <itunes:category text="Technology"/>
